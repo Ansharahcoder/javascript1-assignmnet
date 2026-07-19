@@ -3,15 +3,15 @@
 // 1. Declare a variable called username. 
 
 var username;
+ 
 
 // Question 1 end 
 
 // Question  2 start
  
 // 2. Declare a variable called myName & assign to it a string that represents your Full Name. 
-
 var myName = "Ansharah";
-
+console.log(myName);
 // Question 2 end 
 
 
