@@ -30,7 +30,6 @@ document.write("Data type of my declared variable is number<br><br>");
 // Question 3 end 
 
 
-
 // Question 4 start 
 
 // 4. A visitor visits an online clothing store www.xyzClothing.com .

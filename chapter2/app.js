@@ -23,7 +23,9 @@ console.log(myName);
 //  c) Display the message in alert box. 
 
 var message;
-message = "Hello World";
+
+var message = "Hello World";
+
 alert(message);
 
 // Question 3 end 
